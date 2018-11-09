@@ -1,0 +1,76 @@
+/* MAIN */
+#main {
+    /*background-color: #CDCDCD;*/
+    background-color: #E6E6FA;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+h1, .h1_para, .img_para  {
+    text-align: center;
+}
+
+.h1_para {
+    font-weight: bold;
+}
+
+#h1_title {
+    font-family: 'Montserrat';
+}
+
+/* IMAGE */
+.img_div {
+    background-color: #FFFFFF;
+}
+
+.img_bianchi {
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+.img_para {
+    padding-bottom: 10px;
+    font-family: Arial;
+}
+
+/* CAREER */
+.date {
+    font-weight: bold;
+}
+
+.list {
+    width: 60%;
+    margin: auto;
+}
+
+#title_list {
+    text-align: center;
+    font-family: 'Montserrat';
+    padding-bottom: 10px;
+}
+
+li {
+    line-height: 2em;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+.link_asso:hover {
+    text-decoration: none;
+}
+
+.link_asso {
+    color: none;
+}
+
+.p_asso {
+    padding-bottom: 10px;
+}
